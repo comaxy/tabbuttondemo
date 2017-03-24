@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skin/closeTabHot.png</file>
+        <file>skin/closeTabNormal.png</file>
+        <file>skin/closeTabPressed.png</file>
+        <file>skin/separator.png</file>
+    </qresource>
+</RCC>
